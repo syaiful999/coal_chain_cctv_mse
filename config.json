@@ -1,0 +1,11 @@
+{
+  "server": {
+    "http_port": ":9097"
+  },
+  "streams": {
+    "Choal_chain": {
+      "on_demand": false,
+      "url": "rtsp://admin:admin123@10.80.53.12:554/cam/realmonitor?channel=1&amp;subtype=0"
+    }
+  }
+}
